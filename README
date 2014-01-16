@@ -1,0 +1,22 @@
+Results:
+
+Ruby 2.1.0
+0.027602
+
+Ruby 1.9.3 falcon
+0.037907
+
+NodeJS
+0.139s
+
+Go
+0.0182
+
+JRuby - gson
+0.317
+
+JRuby - jackson
+0.518
+
+JRuby - json-jruby
+0.169

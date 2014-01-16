@@ -1,0 +1,11 @@
+{
+  "name": "bindo_analytics",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "mysql": "*",
+    "log4js": "*",
+    "benchmark": "*",
+    "JSON": "*"
+  }
+}
